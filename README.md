@@ -4,8 +4,9 @@ Built an e-commerce website especially for the visually impaired people.
 
 ## Team
 
-1. Jefri pandian p
-2. Daniel raj k
+1.Jefri pandian p
+2.Afshan.P.J
+3.Pirathiksha 
 
 ## Features of the website
 
